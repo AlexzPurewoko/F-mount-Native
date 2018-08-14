@@ -1,0 +1,1 @@
+gcc fmain.c includes/basic_io.c includes/mount_op.c includes/loop_ctl.c includes/is_mounted.c fs/ext4_fs/mkext4fs.c fs/vfat_fs/mkfs.fat.c fs/vfat_fs/common.c fs/vfat_fs/blkdev.c fs/vfat_fs/device_info.c fs/vfat_fs/linux_version.c -o fmount
